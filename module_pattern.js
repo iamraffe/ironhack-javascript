@@ -7,9 +7,6 @@ var pet_store = (function(){
     return dogs;
   }
 
-  // that.aval_dogs = function(){
-
-  // }
   return that;
 })();
 
